@@ -17,8 +17,6 @@ Looking for a remote job? Explore opportunities at The Mars Preserve Foundation.
 
 ## Resources 📄 
 - [GitHub Repository](https://github.com/marspreserve)  
-- [Contribution Guidelines](https://github.com/marspreserve/CONTRIBUTING.md)  
-- [Documentation](https://github.com/marspreserve/docs)
 
 ## Feedback  📝 
 Your feedback is invaluable! Please share your thoughts, suggestions, or concerns by opening an issue or starting a discussion on our GitHub repository.

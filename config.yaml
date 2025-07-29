@@ -1,0 +1,13 @@
+ui:
+  template_url: https://example.com/ui/template
+settings:
+  theme: dark
+  language: en-US
+  font_size: 16
+  notifications:
+    enabled: true
+    sound: true
+    popup: false
+  cache:
+    enabled: true
+    max_size_mb: 100
